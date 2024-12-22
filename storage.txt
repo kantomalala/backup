@@ -1,0 +1,3 @@
+coucou.txt;0;2
+storage/secondary1/coucou.txt.part1
+storage/secondary2/coucou.txt.part2
